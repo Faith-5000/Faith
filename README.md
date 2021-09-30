@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Faith
 I am a project-oriented collaborator focused on creating products to improve everyday life.
 - 👀 I’m currently interested in Full Stack and IOS Development
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently learning C/C++ and Assembly
 - 📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/faith-r-8a1235191) if you would like to discuss any type of opportunity.
 
 # My Story
@@ -18,16 +18,20 @@ I love teaching elementary students how to code! When my little brother was diag
 # Why Should You Hire Me
 
 ### Project-Oriented 
-I have developed over 5+ Apps and Websites over the past few years, because 
+I have developed 5+ Apps and Websites over the past few years, because 
 I believe that completing projects is the best way to build your programming skills.
-1. Cope With Covid (IOS App) 
-2. Learn Astrohysics (IOS App)
-3. First Date (IOS App)
-4. Tip Calculator (IOS App)
-5. StudyGroove (IOS App)
-6. Learn Gullah (IOS App)
-7. Cope With Covid 2.0 (Web App)
-8. Club Registration Website (Web App)
+1. Cope With Covid (IOS App)  
+- Image
+- Description
+- Availability
+
+3. Learn Astrohysics (IOS App)
+5. First Date (IOS App)
+6. Tip Calculator (IOS App)
+7. StudyGroove (IOS App)
+8. Learn Gullah (IOS App)
+9. Cope With Covid 2.0 (Web App)
+10. Club Registration Website (Web App)
 
 ### Collaborative
 Collaboration is key! I have sought out other people
@@ -40,7 +44,7 @@ Collaboration is key! I have sought out other people
 It is not just about passion! You must be able to
                         motivate yourself to push through the 10 hours of debugging
                         just to realize you forgot a semi-colon. That requires dedication
-                        and a willingness to make your application the best it can be.
+                        and a willingness to make your application the best it can be. I am a self-motivated learner because I seek out learning opportunities and do my very best to succeed no matter how hard it gets.
 
 # Skills & Abilities
 - IOS Development
