@@ -20,6 +20,14 @@ I love teaching elementary students how to code! When my little brother was diag
 ### Project-Oriented 
 I have developed over 5+ Apps and Websites over the past few years, because 
 I believe that completing projects is the best way to build your programming skills.
+1. Cope With Covid (IOS App) 
+2. Learn Astrohysics (IOS App)
+3. First Date (IOS App)
+4. Tip Calculator (IOS App)
+5. StudyGroove (IOS App)
+6. Learn Gullah (IOS App)
+7. Cope With Covid 2.0 (Web App)
+8. Club Registration Website (Web App)
 
 ### Collaborative
 Collaboration is key! I have sought out other people
@@ -48,8 +56,8 @@ It is not just about passion! You must be able to
 
 # Contact Info
 If you like what you see then reach out to me...
-- LinkedIn
-- Email
-- Instagram
-- Facebook
+- [LinkedIn](https://www.linkedin.com/in/faith-r-8a1235191)
+- [Email](mailto:cyber.faith@yahoo.com)
+- [Instagram](https://www.instagram.com/faith_pzr/)
+- [Facebook](https://www.facebook.com/faith.rounds.96)
 ##### Please include your organization details to ensure a timely response.
