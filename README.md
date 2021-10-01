@@ -21,9 +21,9 @@ I love teaching elementary students how to code! When my little brother was diag
 I have developed 5+ Apps and Websites over the past few years, because 
 I believe that completing projects is the best way to build your programming skills.
 1. Cope With Covid (IOS App)  
-- Image
+<!-- - Image
 - Description
-- Availability
+- Availability -->
 
 3. Learn Astrohysics (IOS App)
 5. First Date (IOS App)
