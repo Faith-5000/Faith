@@ -20,18 +20,19 @@ I love teaching elementary students how to code! When my little brother was diag
 ### Project-Oriented 
 I have developed 5+ Apps and Websites over the past few years, because 
 I believe that completing projects is the best way to build your programming skills.
+
 1. Cope With Covid (IOS App)  
+2. Learn Astrohysics (IOS App)
+3. First Date (IOS App)
+4. Tip Calculator (IOS App)
+5. StudyGroove (IOS App)
+6. Learn Gullah (IOS App)
+7. Cope With Covid 2.0 (Web App)
+8. Club Registration Website (Web App)
+
 <!-- - Image
 - Description
 - Availability -->
-
-3. Learn Astrohysics (IOS App)
-5. First Date (IOS App)
-6. Tip Calculator (IOS App)
-7. StudyGroove (IOS App)
-8. Learn Gullah (IOS App)
-9. Cope With Covid 2.0 (Web App)
-10. Club Registration Website (Web App)
 
 ### Collaborative
 Collaboration is key! I have sought out other people
