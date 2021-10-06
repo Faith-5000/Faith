@@ -21,14 +21,23 @@ I love teaching elementary students how to code! When my little brother was diag
 I have developed 5+ Apps and Websites over the past few years, because 
 I believe that completing projects is the best way to build your programming skills.
 
-1. Cope With Covid (IOS App)  
-2. Learn Astrohysics (IOS App)
-3. First Date (IOS App)
-4. Tip Calculator (IOS App)
-5. StudyGroove (IOS App)
-6. Learn Gullah (IOS App)
-7. Cope With Covid 2.0 (Web App)
-8. Club Registration Website (Web App)
+1. Cope With Covid (IOS App) 
+  - <img width="307" alt="Screen Shot 2021-10-05 at 11 11 46 PM" src="https://user-images.githubusercontent.com/46976238/136135083-e47919e1-efe9-4fee-beba-44e6e3378bab.png"> <img width="304" alt="Screen Shot 2021-10-05 at 11 12 05 PM" src="https://user-images.githubusercontent.com/46976238/136135122-f3cb743d-8b73-4767-ae24-8ccc4813ce04.png"> <img width="306" alt="Screen Shot 2021-10-05 at 11 12 20 PM" src="https://user-images.githubusercontent.com/46976238/136135130-81d4730c-556b-48ef-9eaf-51147b06c3b0.png">
+
+  - Cope With Covid is a social-emotional app that focuses on helping people deal with the stress of the covid-19 pandemic. The app includes tips, facts, mindfulness and more!
+  - The app is public on [Github](https://github.com/PZR2000/COVID-19-Hackathon) so you can dive into the code!
+
+3. Learn Astrohysics (IOS App)
+  - <img width="160" alt="Screen Shot 2021-10-05 at 11 28 52 PM" src="https://user-images.githubusercontent.com/46976238/136136208-59cdf9a3-ef8b-458e-9a29-514bdb0dec37.png"> <img width="239" alt="Screen Shot 2021-10-05 at 11 17 30 PM" src="https://user-images.githubusercontent.com/46976238/136136106-47dc9c02-e0eb-45c3-a6be-ecaf43e3662b.png"> <img width="238" alt="Screen Shot 2021-10-05 at 11 17 46 PM" src="https://user-images.githubusercontent.com/46976238/136136111-05209b8c-1a94-44ec-9e8f-5fdc276dca12.png">
+  - Learn Astrophysics is dedicated to educating people about hte wonders of our universe. You can learn about halos, physics simulations, and my reasearch on 2 major halo finders.
+  - The app is no longer available on IOS. Feel free to check out the [website](https://sites.google.com/view/srmp-website/home) that inspired the creation of the app.
+
+5. First Date (IOS App)
+6. Tip Calculator (IOS App)
+7. StudyGroove (IOS App)
+8. Learn Gullah (IOS App)
+9. Cope With Covid 2.0 (Web App)
+10. Club Registration Website (Web App)
 
 <!-- - Image
 - Description
@@ -36,7 +45,7 @@ I believe that completing projects is the best way to build your programming ski
 
 ### Collaborative
 Collaboration is key! I have sought out other people
-                        interested in buil.ding/designing products in an effort
+                        interested in building/designing products in an effort
                         to be more collaborative in my work. As a result I have
                         won hackathons and had successful pitches in an entrepreneur
                         program with startup investors.
