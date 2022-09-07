@@ -72,6 +72,4 @@ It is not just about passion! You must be able to
 If you like what you see then reach out to me...
 - [LinkedIn](https://www.linkedin.com/in/faith-r-8a1235191)
 - [Email](mailto:cyber.faith@yahoo.com)
-- [Instagram](https://www.instagram.com/faith_pzr/)
-- [Facebook](https://www.facebook.com/faith.rounds.96)
 ##### Please include your organization details to ensure a timely response.
