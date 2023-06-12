@@ -28,41 +28,41 @@ I believe that completing projects is the best way to build your programming ski
   - The app is public on [Github](https://github.com/PZR2000/COVID-19-Hackathon) so you can dive into the code!
   - Built Using Swift and UIKit
 
-3. Learn Astrohysics (IOS App)
+2. Learn Astrohysics (IOS App)
   - <img width="160" alt="Screen Shot 2021-10-05 at 11 28 52 PM" src="https://user-images.githubusercontent.com/46976238/136136208-59cdf9a3-ef8b-458e-9a29-514bdb0dec37.png"> <img width="239" alt="Screen Shot 2021-10-05 at 11 17 30 PM" src="https://user-images.githubusercontent.com/46976238/136136106-47dc9c02-e0eb-45c3-a6be-ecaf43e3662b.png"> <img width="238" alt="Screen Shot 2021-10-05 at 11 17 46 PM" src="https://user-images.githubusercontent.com/46976238/136136111-05209b8c-1a94-44ec-9e8f-5fdc276dca12.png">
   - Learn Astrophysics is dedicated to educating people about the wonders of our universe. You can learn about halos, physics simulations, and my reasearch on 2 major halo finders.
   - The app is no longer available on IOS. Feel free to check out the [website](https://sites.google.com/view/srmp-website/home) that inspired the creation of the app.
   - Built Using Swift and UIKit
 
-5. First Date (IOS App)
+3. First Date (IOS App)
  - This app was designed to make the First Date easier!
  - All you have to do is downlaod it and then you gain access to question prompts, tips, and other helpful bits of information to 
  make your dates more enjoyable and less stressful.
  - Built Using Swift and UIKit
  
-7. Tip Calculator (IOS App)
+4. Tip Calculator (IOS App)
 - Simplified the calculation of tip by letting users enter the total cost of the bill, number of people they are splitting it with, and 
 the percent tip that they want to leave.
 - Built Using Swift and UIKit
 
-9. StudyGroove (IOS App)
+5. StudyGroove (IOS App)
 - An app designed to guide students study sessions
 - Students could choose to use the Pomodoro method or to Flow with their study session as well as get access to helpful study tips and 
 mental health check-ins.
 - Built Using Swift and UIKit
 
-11. Learn Gullah (IOS App)
+6. Learn Gullah (IOS App)
 - This app was built with the desire to keep the Gullah culture alive by keeping track of different pieces of data dn information 
 regarding culturally important figures, dates, and locations.
 - There were also sections of the app that explored Gullah food, music, and heritage
 - Built Using Swift, SwiftUI, and UIKit
 
-13. Cope With Covid 2.0 (Web App)
+7. Cope With Covid 2.0 (Web App)
 - Developed using Python, HTML/CSS, and Flask
 - Created with the purpose and combining the social-emotional impact of covid with the need for data and statistics.
 - This app allowed users to look at live data and statistics that were pulled from an API as well as view helpful information and get access to resources by filling out a short questionnare.
 
-15. Club Registration Website (Web App)
+8. Club Registration Website (Web App)
 - Developed using Javascript and HTML/CSS 
 - This application was built when school was remote and students could no longer go in-person for club day. The goal was to streamline the ability to signup for clubs while increasing students access to clubs on campus. 
 
