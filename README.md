@@ -9,16 +9,16 @@ Skydiving excites some, but for me it’s coding! I remember the rush of adrenal
 - Age 14, hired as a software engineer intern at Toast Inc
 - Completed multiple internships throughout high school
 - Developed and deployed a successful study application called StudyGroove
-- In college I have been a technical co-founder and tech-consultant for various startups
-- I am currently a SWE Intern at Liberty Mutual 
+- Am a technical founder with experience leading outsourced dev teams
+- Operated as a tech-consultant for various startups at the Harvard I-Lab
 
 # My Purpose
 My purpose is to develop products that go beyond economic benefits and truly make a positive impact on people's lives. I am driven by the desire to leverage my technical knowledge and skills to create solutions that address the pain points of individuals, providing them with relief, happiness, or even unexpected joy. It is my passion to uncover needs that people may not even be aware of and deliver products that exceed their expectations. By combining my expertise in technology with an understanding of economics and user needs, I strive to build innovative and transformative products that bring genuine value and enhance the lives of others.
 
-# Why Should You Hire Me
+# Projects, Skills, and Growth
 
 ### Project-Oriented 
-I have deployed and developed 7+ Apps/Websites over the past few years, because 
+I have deployed and developed 10+ Apps/Websites over the past few years, because 
 I believe that completing projects is the best way to build your programming skills.
 
 1. Cope With Covid (IOS App) 
@@ -64,7 +64,16 @@ regarding culturally important figures, dates, and locations.
 
 8. Club Registration Website (Web App)
 - Developed using Javascript and HTML/CSS 
-- This application was built when school was remote and students could no longer go in-person for club day. The goal was to streamline the ability to signup for clubs while increasing students access to clubs on campus. 
+- This application was built when school was remote and students could no longer go in-person for club day. The goal was to streamline the ability to signup for clubs while increasing students access to clubs on campus.
+
+9. PocketCloset (IOS/Android App)
+- Led the outsourced development team
+- Fast-tracked the product development to have the MVP ready within 3 months
+
+10. SlingShott (IOS/Android App & WebApp)
+- Built the SAAS MVP in 3 weeks
+- AI integration with bubble and openAI
+- Team development, product growth, and market expansion 
 
 <!-- - Image
 - Description
