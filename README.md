@@ -71,7 +71,9 @@ regarding culturally important figures, dates, and locations.
 - Fast-tracked the product development to have the MVP ready within 3 months
 
 10. SlingShott (IOS/Android App & WebApp)
-- Built the SAAS MVP in 3 weeks
+- Built the [SAAS MVP] (https://business.slingshott.co) in 3 weeks
+  - You can check it out here: https://business.slingshott.co
+  - LogIn with the following credentials (Username = demoaccount@slingshott.co ; Password = demoaccount)
 - AI integration with bubble and openAI
 - Team development, product growth, and market expansion 
 
@@ -88,7 +90,7 @@ Collaboration is key! I have sought out other people
 
 ### Self-Motivated
 It is not just about passion! You must be able to
-                        motivate yourself to push through the 10 hours of debugging
+                        motivate yourself to push through the 10+ hours of debugging
                         just to realize you forgot a semi-colon. That requires dedication
                         and a willingness to make your application the best it can be. I am a self-motivated learner because I seek out learning opportunities and do my very best to succeed no matter how hard it gets.
 
