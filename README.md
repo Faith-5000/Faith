@@ -5,21 +5,20 @@ I am a project-oriented collaborator focused on creating products to improve eve
 - 📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/faith-r-8a1235191) if you would like to discuss any type of opportunity!
 
 # My Story
-Skydiving excites some, but for me it’s coding! I remember the rush of adrenaline when I created my first game using Scratch in 5th grade. This opened up the world of STEM to me, and I was ecstatic about continuing to make games and explore the field of technology.
-- Age 14, hired as a software engineer intern at Toast Inc
-- Completed multiple internships throughout high school
-- Developed and deployed a successful study application called StudyGroove
+- Age 14, hired as an intern and was the youngest software engineer on my team at Toast Inc
+- Completed multiple internships at top employeers like Harvard, MIT, and Liberty Mutual
+- Developed and deployed multiple applications on both the AppStore and Web
 - Am a technical founder with experience leading outsourced dev teams
 - Operated as a tech-consultant for various startups at the Harvard I-Lab
 
 # My Purpose
-My purpose is to develop products that go beyond economic benefits and truly make a positive impact on people's lives. I am driven by the desire to leverage my technical knowledge and skills to create solutions that address the pain points of individuals, providing them with relief, happiness, or even unexpected joy. It is my passion to uncover needs that people may not even be aware of and deliver products that exceed their expectations. By combining my expertise in technology with an understanding of economics and user needs, I strive to build innovative and transformative products that bring genuine value and enhance the lives of others.
+My purpose is to develop products that go beyond economic benefits and truly make a positive impact on people's lives. I am driven by the desire to leverage my technical knowledge and skills to create solutions that address the pain points of individuals. It is my passion to uncover needs that people may not even be aware of and deliver products that exceed their expectations. By combining my expertise in technology with an understanding of economics and user needs, I strive to build innovative and transformative products that bring genuine value and enhance the lives of others.
 
 # Projects, Skills, and Growth
 
 ### Project-Oriented 
 I have deployed and developed 10+ Apps/Websites over the past few years, because 
-I believe that completing projects is the best way to build your programming skills.
+I believe that completing projects is the best way to grow your skillset.
 
 1. Cope With Covid (IOS App) 
   - <img width="307" alt="Screen Shot 2021-10-05 at 11 11 46 PM" src="https://user-images.githubusercontent.com/46976238/136135083-e47919e1-efe9-4fee-beba-44e6e3378bab.png"> <img width="304" alt="Screen Shot 2021-10-05 at 11 12 05 PM" src="https://user-images.githubusercontent.com/46976238/136135122-f3cb743d-8b73-4767-ae24-8ccc4813ce04.png"> <img width="306" alt="Screen Shot 2021-10-05 at 11 12 20 PM" src="https://user-images.githubusercontent.com/46976238/136135130-81d4730c-556b-48ef-9eaf-51147b06c3b0.png">
@@ -77,22 +76,6 @@ regarding culturally important figures, dates, and locations.
 - AI integration with bubble and openAI
 - Team development, product growth, and market expansion 
 
-<!-- - Image
-- Description
-- Availability -->
-
-### Collaborative
-Collaboration is key! I have sought out other people
-                        interested in building/designing products in an effort
-                        to be more collaborative in my work. As a result I have
-                        won hackathons and had successful pitches in an entrepreneur
-                        program with startup investors.
-
-### Self-Motivated
-It is not just about passion! You must be able to
-                        motivate yourself to push through the 10+ hours of debugging
-                        just to realize you forgot a semi-colon. That requires dedication
-                        and a willingness to make your application the best it can be. I am a self-motivated learner because I seek out learning opportunities and do my very best to succeed no matter how hard it gets.
 
 # Skills & Abilities
 - IOS Development
@@ -101,10 +84,10 @@ It is not just about passion! You must be able to
 - HTML & CSS
 - Javascript
 - Python/Flask
-- C/C++
 - Git
 - VSCode
 - Java
+- Team Development
 
 # Contact Info
 If you like what you see then reach out to me 😃...
